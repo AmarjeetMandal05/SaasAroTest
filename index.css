@@ -1,0 +1,109 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* font-family: 'Kanit', sans-serif; */
+}
+@import url('https://fonts.googleapis.com/css2?family=Kanit&display=swap');
+.header{
+    margin-top: 50px;
+    font-family: 'Kanit', sans-serif;
+    font-size: 18px;
+}
+.first{
+    color: rgb(112, 105, 105);
+}
+.description{
+    margin-top: 20px;
+    font-size: 15px;
+    font-family: 'Fira Sans', sans-serif;
+}
+.first_box{
+    width: 300px;
+    height: 200px;
+    background-color: rgb(241, 236, 236);
+    margin-left: 500px;
+    margin-top: 60px;
+    margin-bottom: -115px;
+    /* display: flex; */
+    border-radius: 12px;
+}
+div.content{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.content h4{
+    margin-top: 10px;
+    margin-right: 10px;
+    color: gray;
+}
+.content img{
+    width: 50px;
+    height: 40px;
+    /* object-fit: cover; */
+    margin-top: 40px;
+    margin-left: 200px;
+}
+.second_box{
+    width: 300px;
+    height: 200px;
+    background-color: rgb(241, 236, 236);
+    margin-left: 150px;
+    margin-top: 40px;
+    border-radius: 12px;
+}
+.third_box{
+    width: 300px;
+    height: 200px;
+    background-color: rgb(241, 236, 236);
+    margin-left: 500px;
+    margin-top: -89px;
+    border-radius: 12px;
+    /* margin-bottom: -115px; */
+}
+.fourth_box{
+    width: 300px;
+    height: 200px;
+    background-color: rgb(241, 236, 236);
+    margin-left: 400px;
+    margin-top: 40px;
+    border-radius: 12px;
+}
+.middle{
+    display: flex;
+}
+.slider{
+    /* margin-left: 12px; */
+    width: 299px;
+    background-color: green;
+    height: 1.5vh;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 14px;
+}
+.slider2{
+    /* margin-left: 12px; */
+    width: 299px;
+    background-color: red;
+    height: 1.5vh;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 14px;
+}
+.slider3{
+    /* margin-left: 12px; */
+    width: 299px;
+    background-color: rgb(19, 159, 194);
+    height: 1.5vh;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 14px;
+}
+.slider4{
+    /* margin-left: 12px; */
+    width: 299px;
+    background-color: yellow;
+    height: 1.5vh;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 14px;
+}
+
+
+
